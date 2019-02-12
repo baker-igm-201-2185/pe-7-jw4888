@@ -10,6 +10,7 @@ namespace Jixian_Wang_Hello_Git
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello Git World!");
         }
     }
 }
